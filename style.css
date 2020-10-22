@@ -1,0 +1,21 @@
+h1 {
+	color:white;
+	text-align:center;
+	padding:5%;
+	font-family:Arial;
+	text-shadow:5px;
+	background-color: blue;
+	
+}
+	.footer{
+		color:yellow;
+	background-color: red;
+	}
+	
+	table{
+		background-color: green;
+	}
+	.hj {
+		font-size:100px;
+		
+	}
